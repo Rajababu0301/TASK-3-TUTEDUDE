@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(250, 164, 5);
+    border: 5px solid black;
+    padding: 10px;
+}
+
+
+/* Step 5 */
+
+.head {
+    color: darkblue;
+}
+
+
+/* Step 6 */
+
+#bglime {
+    background-color: lime;
+}
+
+
+/* Step 7 */
+
+#red {
+    color: red;
+}
+
+
+/* Step 8 */
+
+p {
+    color: white;
+}
+
+
+/* Step 9 */
+
+#para {
+    color: green;
+}
+
+
+/* Step 10 */
+
+#paragraph {
+    color: black;
+    font-size: large;
+}
+
+
+/* Step 11 */
+
+
+/* style all links */
+
+a {
+    color: yellow;
+}
+
+
+/* second link */
+
+ul li:nth-child(2) a {
+    color: red;
+}
+
+
+/* ordered list colors */
+
+ol li:nth-child(2) {
+    color: blue;
+}
+
+ol li:nth-child(3) {
+    color: red;
+}
